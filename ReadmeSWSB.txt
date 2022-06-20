@@ -1,0 +1,1 @@
+mach von dem senden buton ein bild nenn es "send.png"
